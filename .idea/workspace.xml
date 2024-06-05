@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef31392b-ea97-487a-b781-5601e0b11817" name="Changes" comment="Hello World">
-      <changelist_data name="laxmi" email="laxmi.b.bhangi@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/ex_05062024/Lab002.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef31392b-ea97-487a-b781-5601e0b11817" name="Changes" comment="Hello World&#10;&#10;Signed-off-by: laxmi &lt;laxmi.b.bhangi@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +42,9 @@
     "Python.Lab001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -79,11 +79,36 @@
       <option name="project" value="LOCAL" />
       <updated>1717554510080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello World">
+      <option name="closed" value="true" />
+      <created>1717555692292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555692292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello World&#10;&#10;Signed-off-by: laxmi &lt;laxmi.b.bhangi@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1717555711108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555711108</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hello World&#10;&#10;Signed-off-by: laxmi &lt;laxmi.b.bhangi@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1717555824996</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555824996</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+    <MESSAGE value="Hello World&#10;&#10;Signed-off-by: laxmi &lt;laxmi.b.bhangi@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World&#10;&#10;Signed-off-by: laxmi &lt;laxmi.b.bhangi@gmail.com&gt;" />
   </component>
 </project>
